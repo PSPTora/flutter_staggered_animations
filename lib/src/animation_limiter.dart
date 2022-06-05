@@ -81,5 +81,3 @@ class _AnimationLimiterProvider extends InheritedWidget {
     return context.findAncestorWidgetOfExactType<_AnimationLimiterProvider>();
   }
 }
-© 2022 GitHub, Inc.
-Terms
